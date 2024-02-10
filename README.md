@@ -14,8 +14,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 - Imported cleaned data into Tableau Public
 - Created the Tableau Workbook and Perform Analysis
   
-Resources csv files used 
-https://s3.amazonaws.com/tripdata/202312-citibike-tripdata.csv.zip
+## Resources csv files used 
+
+https://s3.amazonaws.com/tripdata/202312-citibike-tripdata.csv.zip  
 https://s3.amazonaws.com/tripdata/202306-citibike-tripdata.csv.zip
 
 ## Link to Tableau Story
